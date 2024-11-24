@@ -1,0 +1,13 @@
+name: test
+description: test
+tags:
+- test
+upgradesAllowed: true
+minCustomFormatScore: 0
+upgradeUntilScore: 0
+minScoreIncrement: 0
+custom_formats: []
+qualities:
+- Bluray-1080p
+upgrade_until: Bluray-1080p
+language: chinese
